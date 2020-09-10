@@ -4,4 +4,4 @@ Este repositorio tiene como fin almacenar el estado y avances en el desarollo de
 
 ## Enlaces claves 
 
-- [Memoria Propuesta de plan de mantenimiento en activos críticos de Fab Lab UTFSM]()
+- [Memoria Propuesta de plan de mantenimiento en activos críticos de Fab Lab UTFSM](https://github.com/FabLabUTFSM/HerramientaMantenimiento/blob/master/Bibliografia/Trabajo%20de%20T%C3%ADtulo%20Francisco%20Gallardo%20(Final).pdf)
