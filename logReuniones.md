@@ -3,7 +3,9 @@
 ## 10-09 
 
 José Tomás Domínguez 
+
 Omar Zuñiga
+
 Javier de la Cerda
 
 - [Presentación proyecto](https://github.com/FabLabUTFSM/HerramientaMantenimiento/blob/master/Bibliografia/Presentacion.pdf) (JT)
@@ -15,4 +17,10 @@ Javier de la Cerda
 
 ### Compromisos proxima reunión: 
 - Conseguir calendario de mantenimiento de José Santiabañez (Javier). 
+- Enviar tutorial git (JT). 
+- Resumen memoria Francisco (OZ). 
+- Preparar directorio (JT). 
+- Información que necesitas por parte del Fab Lab (OZ). 
+- Definir fecha y horario siguiente reunión. 
 
+## 24-09
