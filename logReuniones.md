@@ -6,7 +6,7 @@ José Tomás Domínguez
 Omar Zuñiga
 Javier de la Cerda
 
-- [Presentación proyecto](https://github.com/FabLabUTFSM/Mejora-continua-capacitaciones/blob/master/Bibliografia/Reunion1.pdf) (JT)
+- [Presentación proyecto](https://github.com/FabLabUTFSM/HerramientaMantenimiento/blob/master/Bibliografia/Presentacion.pdf) (JT)
     - Antecedentes 
     - Objetivos y proyectos 2020
 - Explicar su rol (Javier)
