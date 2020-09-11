@@ -9,6 +9,6 @@ Este repositorio tiene como fin almacenar el estado y avances en el desarollo de
 ## Directorio
 
 | Nombre  | Mail  | Telefono  | Rol  | 
-|---|---|---|---|---|
+|---|---|---|---|
 |  Francisco Gallardo | fjgallardor@gmail.com  | +56 9 9705 3999  | Ex memorista Fab Lab  | 
 | José Santibañez  | jose.santibanez.12@sansano.usm.cl  |  +56 9 9353 3749 | Ex ayudante Fab Lab  | 
