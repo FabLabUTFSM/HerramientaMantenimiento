@@ -24,3 +24,13 @@ Javier de la Cerda
 - Definir fecha y horario siguiente reunión. 
 
 ## 24-09
+
+- Javier mando el correo para obtener el calendario de mantenimiento de Jose Santibañez.
+- Omar envío por mail el resumen de la memoria de Fco Gallardo. 
+- Omar se va a reunir con Fco y le mostrará resumen de la memoria.  
+
+### Compromisos proxima reunión: 
+- Enviar registro de mantenimientos (Javier)
+- Buscar una forma de tener un registro de mantenimiento (OZ)
+- Traer leido el resumen de la memoria de Fco Gallardo para trabajarlo en conjunto (todos). 
+
