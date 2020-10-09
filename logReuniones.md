@@ -34,3 +34,12 @@ Javier de la Cerda
 - Buscar una forma de tener un registro de mantenimiento (OZ)
 - Traer leido el resumen de la memoria de Fco Gallardo para trabajarlo en conjunto (todos). 
 
+## 9-10
+- Francisco Gallardo reviso el resumen, y dío el feedback de este. Queda listo para que revicen JT y JC. 
+- OZ desarrollo una tabla para poder llevar un control sobre el mantenimiento de las máquinas. 
+
+### Compromisos
+- JC se compromete a probar la tabla para mantenimientos mañana, OZ le enviará una versión actualizada de la tabla. 
+- JT Leer resumen tesis Fco Gallardo y dar feedback. 
+
+
